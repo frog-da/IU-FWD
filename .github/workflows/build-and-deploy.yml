@@ -24,8 +24,8 @@ jobs:
       - name: Build website
         run: |
           npm run build
-          cp -r *.html *.json *.js src images css 3d dist
+          cp -r *.html *.json *.js src images css 3d dist build
       - name: Deploy to GitHub Page
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: dist
+          folder: build
