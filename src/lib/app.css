@@ -1,0 +1,22 @@
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	min-height: 100vh;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+a {
+	color: #4a4646;
+}
+
+a:hover {
+	color: #889695;
+}
+
+a:active {
+	color: #889695;
+}
