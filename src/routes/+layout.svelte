@@ -4,6 +4,10 @@
 	import '$lib/app.css';
 </script>
 
+<svelte:head>
+	<meta name="author" content="Diana Tomilovskaya" />
+</svelte:head>
+
 <div id="app">
 	<Header />
 

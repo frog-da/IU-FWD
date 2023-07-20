@@ -1,4 +1,10 @@
+<script lang="ts">
+	const email = '';
+</script>
+
 <svelte:head>
+	<title>✦ Contacts ✦</title>
+	<meta name="description" content="My ✦ contacts ✦" />
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" />
 </svelte:head>
 
@@ -9,4 +15,5 @@
 <a id="inst-link" href="https://www.instagram.com/dianatomiya/"
 	><i class="fab fa-instagram fa-xl" /></a
 >
+
 <a id="vk-link" href="https://vk.com/iq284888561"><i class="fab fa-vk fa-xl" /></a>

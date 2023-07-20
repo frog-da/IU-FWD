@@ -4,6 +4,11 @@
 	import image3 from '$lib/assets/images/image3.jpg';
 </script>
 
+<svelte:head>
+	<title>✦ My Photos ✦</title>
+	<meta name="description" content="My ✦ beautiful ✦ photos" />
+</svelte:head>
+
 <div class="gallery">
 	<img src={image1} alt="Flowers" />
 	<img src={image2} alt="Nails" />
