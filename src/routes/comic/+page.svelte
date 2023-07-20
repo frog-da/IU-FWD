@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<title>✦ Random Comic ✦</title>
-	<meta name="description" content="My ✦ random ✦ comic" />
+	<meta name="description" content="Random comic" />
 </svelte:head>
 
 <RandomComic comic={data.comic} />
