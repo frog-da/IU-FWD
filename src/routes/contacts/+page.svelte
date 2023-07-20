@@ -1,7 +1,3 @@
-<script lang="ts">
-	const email = '';
-</script>
-
 <svelte:head>
 	<title>✦ Contacts ✦</title>
 	<meta name="description" content="My ✦ contacts ✦" />
